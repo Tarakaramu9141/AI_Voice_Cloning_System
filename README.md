@@ -70,11 +70,11 @@ streamlit run app.py
 ## Alternatives for Improvement
 1. Better TTS Models
 
-Model	Pros	Cons
-Coqui TTS (YourTTS)	Good for cloning, multilingual	CPU-friendly but limited expressiveness
-Tortoise TTS	Extremely realistic clones	Slow, requires GPU
-ElevenLabs	Best commercial quality	API-based (paid)
-VITS (V2)	High-quality, open-source	Needs fine-tuning
+Model                 	             Pros              	                   Cons
+Coqui TTS (YourTTS) ||	Good for cloning, multilingual	CPU-friendly ||but limited expressiveness
+Tortoise TTS	       || Extremely realistic clones	Slow             || requires GPU
+ElevenLabs	         || Best commercial quality	                    ||API-based (paid)
+VITS (V2)	          || High-quality open-source	                   ||Needs fine-tuning
 
 2. Enhanced Preprocessing
 - Noise Reduction (using RNNoise or Adobe Audition).
