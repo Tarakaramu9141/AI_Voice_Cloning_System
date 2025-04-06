@@ -6,4 +6,4 @@ librosa
 soundfile
 phonemizer
 unidecode
-TTS
+coqui-tts
