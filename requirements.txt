@@ -1,0 +1,9 @@
+streamlit
+torch
+torchaudio
+numpy
+librosa
+soundfile
+phonemizer
+unidecode
+TTS
