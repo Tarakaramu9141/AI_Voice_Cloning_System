@@ -45,7 +45,7 @@ Pre-requisites
 
 Steps
 1. Clone the repository
-git clone https://github.com/tarakaramu9141/voice-cloning-app.git
+git clone[ https://github.com/tarakaramu9141/voice-cloning-app.git](https://github.com/Tarakaramu9141/AI_Voice_Cloning_System.git)
 2. Install dependencies
 pip install -re requirements.txt
 3. Run the Streamlit app
